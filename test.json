@@ -1,0 +1,62 @@
+{
+  "id": "61484c756522050001b2a14f",
+  "superlative": "Excellent",
+  "locale": "en_GB",
+  "title": "",
+  "brandType": "Expedia",
+  "reviewScoreWithDescription": {
+    "label": "5 out of 5 Excellent",
+    "value": "5/5 Excellent",
+    "__typename": "LodgingEnrichedMessage"
+  },
+  "text": "This is an excellent hotel, very well run with a very relaxing atmosphere, with first-rate staff.  The rooms are large by Amsterdam standards, and the public spaces very large.  It is a little bit away from the centre but has excellent transport (trams, metro, main train lines).  The front desk will sell you tram tickets (and explain them!) or print your boarding pass or give you directions.  The unique thing about this hotel is that it is built to provide (and subsidise) accomodation for students, while remaining a proper hotel.  Buffet breakfast was excellent (sit near the croissants so you can see when freshly baked ones arrive!).  Groundfloor cafe and bar very nice.  Lots of sofas or places to work with laptops.  Wifi faultless, TV mostly Dutch plus UK,US,FR news.  Built in USB charger by bed, capsule coffee machine, mini fridge, safe.  Shower excellent. Fully wheelchair-friendly, judging by the other guests.",
+  "stayDuration": "Stayed 2 nights in Sep 2021",
+  "submissionTime": {
+    "longDateFormat": "Sep 20, 2021",
+    "__typename": "DateTime"
+  },
+  "themes": [
+    {
+      "icon": {
+        "id": "sentiment_4",
+        "__typename": "Icon"
+      },
+      "label": "Liked: Cleanliness, staff & service, amenities, property conditions & facilities",
+      "__typename": "ReviewThemes"
+    }
+  ],
+  "reviewInteractionSections": [
+    {
+      "primaryDisplayString": "0",
+      "accessibilityLabel": "Mark review 1 as helpful. 0 other users found review 1 helpful.",
+      "reviewInteractionType": "HELPFUL_REVIEW",
+      "__typename": "PropertyReviewInteraction"
+    },
+    {
+      "primaryDisplayString": null,
+      "accessibilityLabel": null,
+      "reviewInteractionType": "REVIEW_REPORT_FLAG",
+      "__typename": "PropertyReviewInteraction"
+    }
+  ],
+  "__typename": "PropertyReview",
+  "reviewAuthorAttribution": {
+    "text": "Jonathan",
+    "__typename": "LodgingHeader"
+  },
+  "photos": [],
+  "travelers": [],
+  "translationInfo": null,
+  "propertyReviewSource": null,
+  "managementResponses": [
+    {
+      "id": "10872b3e-f21b-4d40-924b-65eb051dc4c0",
+      "header": {
+        "text": "Response from Anke - Manager on Duty on Sep 22, 2021",
+        "__typename": "LodgingHeader"
+      },
+      "response": "Hi Jonathan! How lovely to read you are so informed about the concept of our hotel. You really put a smile on our faces with your kind words. Thank you for all your compliments! I will definitely make sure they reach my colleagues. Hopefully we may welcome you again soon. Warm regards, Anke - Manager on Duty",
+      "__typename": "ManagementResponse"
+    }
+  ]
+}

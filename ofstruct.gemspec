@@ -15,10 +15,12 @@ Gem::Specification.new do |spec|
   spec.test_files    = Dir["spec/**/*"]
   spec.require_paths = ["lib"]
 
-  spec.add_development_dependency "benchmark-ips", "~> 2.10"
-  spec.add_development_dependency "benchmark-memory"
   spec.add_development_dependency "guard-rspec", "~> 4.7"
   spec.add_development_dependency "rake", "~> 13.0"
+
+  spec.add_development_dependency "benchmark-ips", "~> 2.10"
+  spec.add_development_dependency "benchmark-memory"
   spec.add_development_dependency "activesupport"
   spec.add_development_dependency "hashie"
+  spec.add_development_dependency "recursive-open-struct"
 end
